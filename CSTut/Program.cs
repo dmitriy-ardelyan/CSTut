@@ -88,6 +88,7 @@ namespace CSTut
             Console.WriteLine("Uppercase : {0}", randomString.ToLower());
             string newString = String.Format("{0} saw a {1} {2} in the {3}", "Paul", "rabbit", "eating", "field");
             Console.Write(@"Exactly wht i typed '\");
+            Console.WriteLine("String for Git testing");
         }
 
         private static void SayHello()
