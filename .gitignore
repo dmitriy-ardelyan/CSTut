@@ -18,6 +18,8 @@
 
 *.sln.docstates
 
+*.ggg
+
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
